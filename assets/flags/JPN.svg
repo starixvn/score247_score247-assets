@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px" height="800px"
-	 viewBox="0 0 1200 800" enable-background="new 0 0 1200 800" xml:space="preserve">
-<g id="Bounding_Box" display="none">
-	<rect display="inline" fill="none" width="1200" height="800"/>
-</g>
-<g id="JPN_x5F__x5F_JAPAN">
-	<rect fill="#FFFFFF" width="1200" height="800"/>
-	<path fill="#BB002D" d="M600.188,655.324c-140.85,0.307-255.817-114.077-256.186-254.89
-		c-0.372-141.754,114-256.553,255.802-256.758c141.207-0.203,255.951,114.171,256.194,255.369
-		C856.242,540.454,741.89,655.015,600.188,655.324z"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800"><path fill="#FFF" d="M0 0h1200v800H0z"/><path fill="#BB002D" d="M600.188 655.324c-140.85.307-255.817-114.077-256.186-254.89-.372-141.754 114-256.553 255.802-256.758 141.207-.203 255.951 114.171 256.194 255.369.244 141.409-114.108 255.97-255.81 256.279z"/></svg>
