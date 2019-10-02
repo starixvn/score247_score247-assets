@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 800" style="enable-background:new 0 0 1200 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#FFFEFE;}
+	.st2{fill:#171796;}
+	.st3{fill:#FF0000;}
+	.st4{fill:#338AF3;}
+	.st5{fill:#0052B4;}
+	.st6{fill:#F0F0F0;}
+	.st7{fill:#D80027;}
+</style>
+<g id="Bounding_Box">
+	<rect class="st0" width="1200" height="800"/>
+</g>
+<g id="HRV_x5F__x5F_CROATIA">
+	<g>
+		<rect class="st1" width="1200" height="798.4"/>
+		<rect y="536.5" class="st2" width="1200" height="263.5"/>
+		<rect class="st3" width="1200" height="263.5"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon class="st4" points="721.2,288.9 640.4,288.9 653.8,188 707.7,147.6 761.5,188 761.5,268.7 		"/>
+		<polygon class="st4" points="478.8,288.9 559.6,288.9 546.1,188 492.3,147.6 438.5,188 438.5,268.7 		"/>
+	</g>
+	<polygon class="st5" points="653.8,288.9 546.1,288.9 546.1,188 600,147.6 653.8,188 	"/>
+	<path class="st6" d="M438.5,268.7v222.1c0,52.9,25.5,99.9,65,129.4l28.3-7.1l35.7,35.9c10.5,2.2,21.5,3.3,32.6,3.3
+		c11.1,0,22-1.1,32.5-3.3l40.7-33.9l23.4,5c39.4-29.5,65-76.5,65-129.3V268.7H438.5z"/>
+	<g>
+		<rect x="438.5" y="268.7" class="st7" width="64.6" height="64.6"/>
+		<rect x="567.7" y="268.7" class="st7" width="64.6" height="64.6"/>
+		<rect x="696.9" y="268.7" class="st7" width="64.6" height="64.6"/>
+		<rect x="503.1" y="333.4" class="st7" width="64.6" height="64.6"/>
+		<rect x="632.3" y="333.4" class="st7" width="64.6" height="64.6"/>
+		<rect x="438.5" y="398" class="st7" width="64.6" height="64.6"/>
+		<rect x="503.1" y="462.6" class="st7" width="64.6" height="64.6"/>
+		<rect x="567.7" y="398" class="st7" width="64.6" height="64.6"/>
+		<rect x="696.9" y="398" class="st7" width="64.6" height="64.6"/>
+		<rect x="632.3" y="462.6" class="st7" width="64.6" height="64.6"/>
+		<rect x="567.7" y="527.2" class="st7" width="64.6" height="64.6"/>
+		<path class="st7" d="M503.1,527.2h-60.4c5.5,24,16.4,46,31.4,64.6h29.1V527.2z"/>
+		<path class="st7" d="M696.9,591.8H726c14.9-18.6,25.8-40.6,31.4-64.6h-60.4V591.8z"/>
+		<path class="st7" d="M503.1,591.8V620c18.8,14.1,40.8,24.3,64.6,29.1v-57.3L503.1,591.8L503.1,591.8z"/>
+		<path class="st7" d="M632.3,591.8v57.3c23.9-4.9,45.8-15,64.6-29.1v-28.2H632.3z"/>
+	</g>
+</g>
+</svg>
